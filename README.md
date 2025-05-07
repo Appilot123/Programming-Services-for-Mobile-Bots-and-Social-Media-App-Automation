@@ -69,11 +69,11 @@ Our bots can be integrated with ChatGPT for intelligent, human-like responses th
 
 | Mobel               | Rate                              | Typical Project Hours                           |
 |---------------------|-----------------------------------|------------------------------------------------ |
-| **Hourly:**         | $30/hour                          | 30 - 300 hours                                  |
+| **Hourly:**         | $20/hour                          | 30 - 300 hours                                  |
 | **Fixed:**          | Custom Quote	                    | Based on Scope                                  |
 
 
-- **Hourly Rate:** $30 per hour, with projects typically requiring 30–300 hours.
+- **Hourly Rate:** $20 per hour, with projects typically requiring 30–300 hours.
 - **Fixed Rate:** Custom quotes range from **$1,000 to $5,000**, based on project scope.
 - **Support:** $4 per hour for on-demand support, available as a monthly service if needed.
 
