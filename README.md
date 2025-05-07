@@ -81,4 +81,122 @@ Our bots can be integrated with ChatGPT for intelligent, human-like responses th
   <img src="https://github.com/user-attachments/assets/d090878f-e2ef-4baf-90d2-8f620e9d5f50" alt="Pricing" width="80%">
 </div>
 
+## Project Timelines
 
+We work closely with clients to establish realistic timelines based on the complexity of their projects:
+
+- **Simple Projects:** 3 - 30 days
+- **Complex Projects:** Up to 3 months
+
+Final timelines and budgets are confirmed after an initial [onboarding call](https://cal.com/app-pilot-m8i8oo/30min)
+
+
+## Technologies Used
+
+Our projects utilize a comprehensive tech stack to deliver robust, high-quality solutions:
+- **Appium:** For Android and iOS automation (both wired and non-ADB solutions).
+- **Appilot:** Our proprietary non-ADB, wireless control solution.
+- **XCUITest:** For iPhone automation.
+- **AutoTouch:** For custom iOS automation scripting.
+- **Programming Languages:** Python, Java, JavaScript for powerful, efficient code.
+- **Mobile Proxies:** Mobile data or SIM-based proxies for secure, undetectable interactions.
+- **Chatbots:** ChatGPT-powered responses to enable dynamic, natural interactions.
+
+
+## Getting Started
+
+1. **Define Your Goals:** Identify the platforms and goals for automation.
+2. **Contact Us for a Consultation:** We’ll discuss your project requirements and create a custom solution that fits your needs.
+3. **Receive Your Automation Solution:** Upon completion, you’ll receive your bot package, including setup instructions, video demos, and 15 days of free technical support.
+
+For a free consultation, [Book a 30-Minute Call](https://cal.com/app-pilot-m8i8oo/30min).
+
+
+## FAQs
+
+**Question:  What services do you offer?**
+
+**Answer:** We offer professional programming services for automating tasks on social media platforms like Instagram, Reddit, TikTok, Bumble, LinkedIn, and more. Our services include custom automation solutions using Android/iOS emulators, social media bots on real devices, mobile farms, and advanced automation techniques like the mother-slave method.
+
+**Question:  Why Choose Real Device Automation Over PC Browser Automation?**
+
+**Answer:** We prioritize Android automation because social media algorithms have become increasingly sophisticated. Browser-based bots and API-driven tools often expose data such as fingerprints and IPs, leading to quick account bans. In contrast, using multiple Android devices, each running 25–50 Instagram apps with mobile proxies or SIM data, provides a more secure and effective solution. Real device bots more accurately mimic human behavior and can bypass social media’s strict detection systems.
+
+**Question:  How Does Social Media Automation Work on Real Devices?**
+
+**Answer:** Our bots run on real Android and iOS devices, using mobile proxies or SIM data 
+to avoid detection. This setup closely mimics human behavior, ensuring better engagement and reducing the risk of being flagged by platforms like Instagram and TikTok.
+
+**Question:  Can Your Automation Bots Work on Any Social Media Platform, Android, iOS Device, or Emulator?**
+
+**Answer:** Yes, we can build bots on any social media platforms, including Instagram, TikTok, Reddit, LinkedIn, or any other. We specialize in automating tasks on Android, iOS devices, and emulators,Our solutions are customized to fit your specific needs.
+
+**Question:  What is a mobile farm, and how can it help my business?**
+
+**Answer:** A mobile farm involves managing multiple mobile devices simultaneously for tasks like social media automation. We provide both consultancy and implementation services to help you set up and manage a custom mobile farm, allowing you to scale your operations efficiently.
+
+**Question:  Can You Integrate ChatGPT into Social Media Bots?**
+
+**Answer:** Yes, we can create chatbots using advanced AI models like ChatGPT, enabling natural, human-like interactions with users. This helps enhance customer engagement and improve interactions on your social media accounts.
+
+**Question:  What Technologies Do You Use for Mobile Automation?**
+
+**Answer:** We use technologies like Appium, Appilot(Handle mobile remotely), XCUITest, Python, Java, JavaScript, iOS reverse engineering, AutoTouch, ChatGPT-powered chatbots, and human-like behavior emulation for mobile automation.
+
+**Question:  What is the Difference Between ADB and Non-ADB Solutions?**
+
+**Answer:** ADB Solution : A tool that enables communication between a computer and an Android device for automation. Bots built using ADB require a wired USB connection between the mobile device and the computer. The software runs on the computer, sending commands to the mobile device for execution. However, this method can be detected by some apps.
+
+
+**Question:  What Are the Drawbacks of Using ADB (Wired Connection)?**
+
+**Answer:**
+- Frequent disconnections requiring replugging.
+- Accelerates battery drain and impacts battery health.
+- Lacks remote access capabilities.
+- Limited device connections per laptop.
+- May experience lag during use.
+
+
+**Question:  What is Appilot, and Is It Included with Your Services?**
+
+**Answer:** Appilot is our SaaS platform for remote device automation. When you use our services, you receive a free Appilot account, allowing you to manage and control your automation tasks from anywhere, anytime.
+
+**Question:  What are your pricing options?**
+
+**Answer:** We offer two pricing models:
+- **Hourly Rate:** $20 per hour, with projects typically requiring 30 to 300 hours.
+- **Fixed Rate:** Custom quotes ranging from $1,000 to $5,000, depending on the project scope.
+- **Support:** We charge a minimum of $4 per hour for support, available on-demand or as a monthly service.
+
+**Question:  How long does it take to complete a project?**
+
+**Answer:** Project timelines vary based on complexity but generally take between 3 to 30 days to 3 months . We work closely with you to establish realistic timelines that align with your project needs.
+
+**Question:  Do you offer support after project completion?**
+
+**Answer:** Yes, we provide extended support after project delivery.15 Days Free support after the project is completed.  This includes troubleshooting, optimization, and assistance with any issues to ensure your automation continues to run smoothly.
+
+
+**Question:  How can I get started with your services?**
+
+**Answer:** To get started, you can reach out to us via DM or Contact Us to discuss your project requirements. We will work with you to develop a custom solution that fits your needs and help you build a complete automation bot for your desired social media platform.
+
+**Question:  What Sets Your Automation Services Apart?**
+
+**Answer:**
+1. Advanced tech stack, staying ahead of industry trends.
+2. Capable of handling large workloads with an in-house development team.
+3. Free 15-day support after project completion.
+4. Unique non-ADB, wireless automation—unlike others relying on wired solutions.
+5. Includes a free Appilot account for remote control.
+
+## Contact Us
+
+Ready to elevate your social media automation? **Let’s chat!**
+
+- **Website:** [appilot.app](https://appilot.app)
+- **Discord:** [Join Our Server](https://discord.gg/bT8bE3vbSY)
+- **Telegram:** [Contact Us](https://t.me/appilotdev)
+- **Book a Call:** [30-minute call](https://cal.com/app-pilot-m8i8oo/30min)
+- **Email:** support@appilot.app
